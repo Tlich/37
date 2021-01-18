@@ -1,4 +1,4 @@
-### 最近做课设发现百度上面很多代码都是重复的没有营养的，所以我决定把自己的代码开源 给大家提供一定的帮助，但是我的能力有限可能有不少的bug
+### 
 
 <!--
 **Tlich/Tlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
